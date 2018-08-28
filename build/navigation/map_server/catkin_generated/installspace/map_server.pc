@@ -1,0 +1,8 @@
+prefix=/home/peterpark/catkin_ws/install
+
+Name: map_server
+Description: Description of map_server
+Version: 1.16.2
+Cflags: -I/home/peterpark/catkin_ws/install/include
+Libs: -L/home/peterpark/catkin_ws/install/lib -lmap_server_image_loader
+Requires: roscpp nav_msgs tf2

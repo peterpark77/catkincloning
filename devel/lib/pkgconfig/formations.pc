@@ -1,0 +1,8 @@
+prefix=/home/peterpark/catkin_ws/devel
+
+Name: formations
+Description: Description of formations
+Version: 0.0.0
+Cflags: -I/home/peterpark/catkin_ws/src/menge_ros/formations/include
+Libs: -L/home/peterpark/catkin_ws/devel/lib -lformations
+Requires: roscpp rospy std_msgs

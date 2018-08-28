@@ -1,0 +1,8 @@
+prefix=/home/peterpark/catkin_ws/devel
+
+Name: agt_johansson
+Description: Description of agt_johansson
+Version: 0.0.0
+Cflags: -I/home/peterpark/catkin_ws/src/menge_ros/agt_johansson/include
+Libs: -L/home/peterpark/catkin_ws/devel/lib -lagt_johansson
+Requires: roscpp rospy std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/peterpark/catkin_ws/devel
+
+Name: agt_dummy
+Description: Description of agt_dummy
+Version: 0.0.0
+Cflags: -I/home/peterpark/catkin_ws/src/menge_ros/agt_dummy/include
+Libs: -L/home/peterpark/catkin_ws/devel/lib -lagt_dummy
+Requires: roscpp rospy std_msgs

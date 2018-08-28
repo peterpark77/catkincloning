@@ -1,0 +1,8 @@
+prefix=/home/peterpark/catkin_ws/devel
+
+Name: menge_srvs
+Description: Description of menge_srvs
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/peterpark/catkin_ws/devel/lib 
+Requires: 

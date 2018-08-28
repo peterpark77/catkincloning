@@ -1,0 +1,8 @@
+prefix=/home/peterpark/catkin_ws/devel
+
+Name: menge_msgs
+Description: Description of menge_msgs
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/peterpark/catkin_ws/devel/lib 
+Requires: 
